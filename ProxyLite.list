@@ -14,6 +14,7 @@ DOMAIN-KEYWORD,opensubtitles
 DOMAIN-KEYWORD,wemix
 DOMAIN-KEYWORD,walletconnect
 DOMAIN-KEYWORD,geckoterminal
+DOMAIN-KEYWORD,m-team
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
