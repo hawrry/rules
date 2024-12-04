@@ -62,7 +62,7 @@ custom_proxy_group=🎞️ 国内媒体`select`[]DIRECT`[]🚀 节点选择
 custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]🚀 节点选择
 custom_proxy_group=🐟 漏网之鱼`select`[]DIRECT`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇸🇬 其它节点
 
-custom_proxy_group=🇭🇰 香港节点`select`(^(?!.*(S1|S2|S3|S4|S5)).*)
+custom_proxy_group=🇭🇰 香港节点`select`(?=.*(S1|S2|S3|S4|S5))
 custom_proxy_group=🇸🇬 其它节点`select`(^(?!.*(CF)).*)
 custom_proxy_group=🇺🇲 美国节点`select`(^(?!.*(USA)).*)
 custom_proxy_group=🇯🇵 下载节点`select`(^(?!.*(S801)).*)
